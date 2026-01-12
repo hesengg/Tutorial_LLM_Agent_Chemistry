@@ -1,3 +1,5 @@
 *.pptx
 *.DS_Store
 __pycache__/
+inputs/*
+agent_outputs/*
